@@ -8,12 +8,13 @@ namespace SimpleGeometry.Models
 {
     public class LineWithCoordinates
     {
-        public LineWithCoordinates(DotWithCoordinates beginning, DotWithCoordinates end, double? length)
+        public LineWithCoordinates(DotWithCoordinates beginning, DotWithCoordinates end, double? length = null)
         {
             Beginning = beginning;
             End = end;
             Length = length ?? CalculateLineLength();
         }
+
 
         public LineWithCoordinates(double length)
         {

@@ -5,10 +5,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace SimpleGeometry.Abstract
+namespace SimpleGeometry.Abstract.Product
 {
-    public interface IFigureProtoType
+    public abstract class SidedFigure : IFigure
     {
-        IFigure Clone();
+        public SidedFigure() { }
     }
 }

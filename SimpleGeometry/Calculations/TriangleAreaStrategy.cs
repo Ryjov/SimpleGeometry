@@ -1,4 +1,5 @@
 ﻿using SimpleGeometry.Abstract;
+using SimpleGeometry.Abstract.Product;
 using SimpleGeometry.Models;
 using System;
 using System.Collections.Generic;
@@ -12,7 +13,8 @@ namespace SimpleGeometry.Calculations
     {
         public double CalculateArea(IFigure figure)
         {
-            var sidelengths = figure.Lines.ToList();
+            var triangle = figure as Triangle;
+            var sidelengths = figure.Lines.Select(l => l.Length).ToList();
             double perimiter = (double)sidelengths.Sum();
 
             return Math.Sqrt(perimiter * (perimiter - (double)sidelengths[0]) * (perimiter - (double)sidelengths[1]) * (perimiter - (double)sidelengths[2]));

@@ -1,4 +1,5 @@
 ﻿using SimpleGeometry.Abstract;
+using SimpleGeometry.Abstract.Product;
 using SimpleGeometry.Models;
 using System;
 using System.Collections.Generic;
@@ -12,7 +13,8 @@ namespace SimpleGeometry.Calculations
     {
         public double CalculateArea(IFigure figure)
         {
-            return Math.PI * Math.Pow(figure.Lines[0], 2);
+            var circle = figure as Circle;
+            return Math.PI * Math.Pow((double)circle.Radius.Length, 2);
         }
     }
 }

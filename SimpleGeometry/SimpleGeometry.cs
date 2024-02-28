@@ -1,4 +1,6 @@
 ﻿using SimpleGeometry.Abstract;
+using SimpleGeometry.Abstract.Creator;
+using SimpleGeometry.Abstract.Product;
 using SimpleGeometry.Calculations;
 using SimpleGeometry.Models;
 
@@ -6,43 +8,43 @@ namespace SimpleGeometry
 {
     public class SimpleGeometry
     {
-        public double CalculateTriangleArea(List<DotWithCoordinates> dots)
+        // Input dot coordinates in a Tuple<double,double> as parameters to receive an area of a resulting figure
+        public double CalculateArea(List<Tuple<double, double>> dotCoordinates)
         {
-            var lineA = new LineWithCoordinates(dots[0], dots[1], null);
-            var lineB = new LineWithCoordinates(dots[1], dots[2], null);
-            var lineC = new LineWithCoordinates(dots[2], dots[0], null);
+            FigureCreator creator;
+            switch (dotCoordinates.Count)
+            {
+                case 2:
+                    creator = new CircleCreator();
+                    break;
+                case 3:
+                    creator = new TriangleCreator();
+                    break;
+                default:
+                    throw new ArgumentException($"Incorrect set of coordinates sent for calculating a shape's area. Valid number of coordinates: 2-3. Number of coordinates sent: ${dotCoordinates.Count}");
+            }
 
-            return CreateFigureAndGetArea(new Triangle(lineA, lineB, lineC));
-        }
+            var dots = new List<DotWithCoordinates>();
+            foreach (var d in dotCoordinates)
+            {
+                dots.Add(new DotWithCoordinates(d.Item1, d.Item2));
+            }
 
-        public double CalculateCircleArea(double centerX, double centerY, double endX, double endY)
-        {
-            var centerDot = new DotWithCoordinates(centerX, centerY);
-            var endDot = new DotWithCoordinates(endX, endY);
-            var radiusLine = new LineWithCoordinates(centerDot, endDot, null);
+            var lines = new List<LineWithCoordinates>();
+            for (int i=0; i<dots.Count;i++)
+            {
+                if ((dots[i + 1].X != dots[0].X && dots[i + 1].Y != dots[0].Y) || (i + 1 >= dots.Count)) // check
+                {
+                    lines.Add(new LineWithCoordinates(dots[i], dots[0]));
+                }
+                else
+                {
+                    lines.Add(new LineWithCoordinates(dots[i], dots[i + 1]));
+                }
+            }
 
-            return CreateFigureAndGetArea(new Circle(radiusLine));
-        }
-
-        public double CalculateCircleArea(double radius)
-        {
-            var radiusLine = new LineWithCoordinates(radius);
-
-            return CreateFigureAndGetArea(new Circle(radiusLine));
-        }
-
-        private double CreateFigureAndGetArea(Circle circle)
-        {
-            var context = new FigureAreaContext();
-            context.SetStrategy(new CircleAreaStrategy());
-            return context.GetArea(circle);
-        }
-
-        private double CreateFigureAndGetArea(Triangle triangle)
-        {
-            var context = new FigureAreaContext();
-            context.SetStrategy(new TriangleAreaStrategy());
-            return context.GetArea(triangle);
+            var figure = creator.CreateFigure(lines);
+            return (double)figure.Area;
         }
     }
 }
