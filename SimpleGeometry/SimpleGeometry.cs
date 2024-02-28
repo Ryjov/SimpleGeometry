@@ -21,7 +21,8 @@ namespace SimpleGeometry
                     creator = new TriangleCreator();
                     break;
                 default:
-                    throw new ArgumentException($"Incorrect set of coordinates sent for calculating a shape's area. Valid number of coordinates: 2-3. Number of coordinates sent: ${dotCoordinates.Count}");
+                    throw new ArgumentException($"Incorrect set of coordinates sent for calculating a shape's area. " +
+                        $"Valid number of coordinates: 2-3. Number of coordinates sent: ${dotCoordinates.Count}");
             }
 
             var dots = new List<DotWithCoordinates>();
