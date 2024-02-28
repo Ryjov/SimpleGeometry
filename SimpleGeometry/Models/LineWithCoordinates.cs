@@ -15,6 +15,13 @@ namespace SimpleGeometry.Models
             Length = length ?? CalculateLineLength();
         }
 
+        public LineWithCoordinates(double length)
+        {
+            Beginning = new DotWithCoordinates(0, 0);
+            End = new DotWithCoordinates(length, length);
+            Length = length;
+        }
+
         public DotWithCoordinates Beginning { get; set; }
         public DotWithCoordinates End { get; set; }
         public double? Length { get; set; }

@@ -21,7 +21,5 @@ namespace SimpleGeometry.Models
         protected LineWithCoordinates SideB { get; set; }
 
         protected LineWithCoordinates SideC { get; set; }
-
-        public IFigure Clone() => new Triangle(SideA, SideB, SideC);
     }
 }

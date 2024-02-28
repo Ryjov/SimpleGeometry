@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace SimpleGeometry.Calculations
 {
-    internal class TriangleArea : IAreaCalculatable
+    class TriangleAreaStrategy : IAreaCalculationStrategy
     {
         public double CalculateArea(IFigure figure)
         {

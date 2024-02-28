@@ -8,7 +8,7 @@ namespace SimpleGeometry.Models
 {
     public class DotWithCoordinates
     {
-        DotWithCoordinates(double x, double y)
+        public DotWithCoordinates(double x, double y)
         {
             X = x;
             Y = y;

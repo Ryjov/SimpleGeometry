@@ -3,48 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\SimpleGeometry\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FCE101D7-F002-4A64-95D6-B01DD05C2315}|SimpleGeometry\\SimpleGeometry.csproj|c:\\users\\\u0435\u0433\u043E\u0440\\source\\repos\\simplegeometry\\simplegeometry\\abstract\\ifigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCE101D7-F002-4A64-95D6-B01DD05C2315}|SimpleGeometry\\SimpleGeometry.csproj|solutionrelative:simplegeometry\\abstract\\ifigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCE101D7-F002-4A64-95D6-B01DD05C2315}|SimpleGeometry\\SimpleGeometry.csproj|c:\\users\\\u0435\u0433\u043E\u0440\\source\\repos\\simplegeometry\\simplegeometry\\abstract\\iareacalculatable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCE101D7-F002-4A64-95D6-B01DD05C2315}|SimpleGeometry\\SimpleGeometry.csproj|solutionrelative:simplegeometry\\abstract\\iareacalculatable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCE101D7-F002-4A64-95D6-B01DD05C2315}|SimpleGeometry\\SimpleGeometry.csproj|c:\\users\\\u0435\u0433\u043E\u0440\\source\\repos\\simplegeometry\\simplegeometry\\models\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCE101D7-F002-4A64-95D6-B01DD05C2315}|SimpleGeometry\\SimpleGeometry.csproj|solutionrelative:simplegeometry\\models\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FCE101D7-F002-4A64-95D6-B01DD05C2315}|SimpleGeometry\\SimpleGeometry.csproj|c:\\users\\\u0435\u0433\u043E\u0440\\source\\repos\\simplegeometry\\simplegeometry\\simplegeometry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FCE101D7-F002-4A64-95D6-B01DD05C2315}|SimpleGeometry\\SimpleGeometry.csproj|solutionrelative:simplegeometry\\simplegeometry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCE101D7-F002-4A64-95D6-B01DD05C2315}|SimpleGeometry\\SimpleGeometry.csproj|c:\\users\\\u0435\u0433\u043E\u0440\\source\\repos\\simplegeometry\\simplegeometry\\calculations\\trianglearea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCE101D7-F002-4A64-95D6-B01DD05C2315}|SimpleGeometry\\SimpleGeometry.csproj|solutionrelative:simplegeometry\\calculations\\trianglearea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCE101D7-F002-4A64-95D6-B01DD05C2315}|SimpleGeometry\\SimpleGeometry.csproj|c:\\users\\\u0435\u0433\u043E\u0440\\source\\repos\\simplegeometry\\simplegeometry\\calculations\\circlearea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCE101D7-F002-4A64-95D6-B01DD05C2315}|SimpleGeometry\\SimpleGeometry.csproj|solutionrelative:simplegeometry\\calculations\\circlearea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCE101D7-F002-4A64-95D6-B01DD05C2315}|SimpleGeometry\\SimpleGeometry.csproj|c:\\users\\\u0435\u0433\u043E\u0440\\source\\repos\\simplegeometry\\simplegeometry\\models\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCE101D7-F002-4A64-95D6-B01DD05C2315}|SimpleGeometry\\SimpleGeometry.csproj|solutionrelative:simplegeometry\\models\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCE101D7-F002-4A64-95D6-B01DD05C2315}|SimpleGeometry\\SimpleGeometry.csproj|c:\\users\\\u0435\u0433\u043E\u0440\\source\\repos\\simplegeometry\\simplegeometry\\models\\dotwithcoordinates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCE101D7-F002-4A64-95D6-B01DD05C2315}|SimpleGeometry\\SimpleGeometry.csproj|solutionrelative:simplegeometry\\models\\dotwithcoordinates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FCE101D7-F002-4A64-95D6-B01DD05C2315}|SimpleGeometry\\SimpleGeometry.csproj|c:\\users\\\u0435\u0433\u043E\u0440\\source\\repos\\simplegeometry\\simplegeometry\\models\\linewithcoordinates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FCE101D7-F002-4A64-95D6-B01DD05C2315}|SimpleGeometry\\SimpleGeometry.csproj|solutionrelative:simplegeometry\\models\\linewithcoordinates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FCE101D7-F002-4A64-95D6-B01DD05C2315}|SimpleGeometry\\SimpleGeometry.csproj|c:\\users\\\u0435\u0433\u043E\u0440\\source\\repos\\simplegeometry\\simplegeometry\\abstract\\ifigureprototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCE101D7-F002-4A64-95D6-B01DD05C2315}|SimpleGeometry\\SimpleGeometry.csproj|solutionrelative:simplegeometry\\abstract\\ifigureprototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FCE101D7-F002-4A64-95D6-B01DD05C2315}|SimpleGeometry\\SimpleGeometry.csproj|c:\\users\\\u0435\u0433\u043E\u0440\\source\\repos\\simplegeometry\\simplegeometry\\abstract\\figureareacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCE101D7-F002-4A64-95D6-B01DD05C2315}|SimpleGeometry\\SimpleGeometry.csproj|solutionrelative:simplegeometry\\abstract\\figureareacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCE101D7-F002-4A64-95D6-B01DD05C2315}|SimpleGeometry\\SimpleGeometry.csproj|c:\\users\\\u0435\u0433\u043E\u0440\\source\\repos\\simplegeometry\\simplegeometry\\models\\dotwithcoordinates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCE101D7-F002-4A64-95D6-B01DD05C2315}|SimpleGeometry\\SimpleGeometry.csproj|solutionrelative:simplegeometry\\models\\dotwithcoordinates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCE101D7-F002-4A64-95D6-B01DD05C2315}|SimpleGeometry\\SimpleGeometry.csproj|c:\\users\\\u0435\u0433\u043E\u0440\\source\\repos\\simplegeometry\\simplegeometry\\models\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCE101D7-F002-4A64-95D6-B01DD05C2315}|SimpleGeometry\\SimpleGeometry.csproj|solutionrelative:simplegeometry\\models\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCE101D7-F002-4A64-95D6-B01DD05C2315}|SimpleGeometry\\SimpleGeometry.csproj|c:\\users\\\u0435\u0433\u043E\u0440\\source\\repos\\simplegeometry\\simplegeometry\\models\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCE101D7-F002-4A64-95D6-B01DD05C2315}|SimpleGeometry\\SimpleGeometry.csproj|solutionrelative:simplegeometry\\models\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCE101D7-F002-4A64-95D6-B01DD05C2315}|SimpleGeometry\\SimpleGeometry.csproj|c:\\users\\\u0435\u0433\u043E\u0440\\source\\repos\\simplegeometry\\simplegeometry\\calculations\\circleareastrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCE101D7-F002-4A64-95D6-B01DD05C2315}|SimpleGeometry\\SimpleGeometry.csproj|solutionrelative:simplegeometry\\calculations\\circleareastrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCE101D7-F002-4A64-95D6-B01DD05C2315}|SimpleGeometry\\SimpleGeometry.csproj|c:\\users\\\u0435\u0433\u043E\u0440\\source\\repos\\simplegeometry\\simplegeometry\\calculations\\triangleareastrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCE101D7-F002-4A64-95D6-B01DD05C2315}|SimpleGeometry\\SimpleGeometry.csproj|solutionrelative:simplegeometry\\calculations\\triangleareastrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCE101D7-F002-4A64-95D6-B01DD05C2315}|SimpleGeometry\\SimpleGeometry.csproj|c:\\users\\\u0435\u0433\u043E\u0440\\source\\repos\\simplegeometry\\simplegeometry\\abstract\\iareacalculationstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCE101D7-F002-4A64-95D6-B01DD05C2315}|SimpleGeometry\\SimpleGeometry.csproj|solutionrelative:simplegeometry\\abstract\\iareacalculationstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FCE101D7-F002-4A64-95D6-B01DD05C2315}|SimpleGeometry\\SimpleGeometry.csproj|c:\\users\\\u0435\u0433\u043E\u0440\\source\\repos\\simplegeometry\\simplegeometry\\simplegeometry.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{FCE101D7-F002-4A64-95D6-B01DD05C2315}|SimpleGeometry\\SimpleGeometry.csproj|solutionrelative:simplegeometry\\simplegeometry.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCE101D7-F002-4A64-95D6-B01DD05C2315}|SimpleGeometry\\SimpleGeometry.csproj|c:\\users\\\u0435\u0433\u043E\u0440\\source\\repos\\simplegeometry\\simplegeometry\\abstract\\ifigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCE101D7-F002-4A64-95D6-B01DD05C2315}|SimpleGeometry\\SimpleGeometry.csproj|solutionrelative:simplegeometry\\abstract\\ifigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCE101D7-F002-4A64-95D6-B01DD05C2315}|SimpleGeometry\\SimpleGeometry.csproj|c:\\users\\\u0435\u0433\u043E\u0440\\source\\repos\\simplegeometry\\simplegeometry\\abstract\\ifigureprototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCE101D7-F002-4A64-95D6-B01DD05C2315}|SimpleGeometry\\SimpleGeometry.csproj|solutionrelative:simplegeometry\\abstract\\ifigureprototype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,47 +58,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Triangle.cs",
-              "DocumentMoniker": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\SimpleGeometry\\SimpleGeometry\\Models\\Triangle.cs",
-              "RelativeDocumentMoniker": "SimpleGeometry\\Models\\Triangle.cs",
-              "ToolTip": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\SimpleGeometry\\SimpleGeometry\\Models\\Triangle.cs",
-              "RelativeToolTip": "SimpleGeometry\\Models\\Triangle.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAiAAAA",
+              "Title": "FigureAreaContext.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\SimpleGeometry\\SimpleGeometry\\Abstract\\FigureAreaContext.cs",
+              "RelativeDocumentMoniker": "SimpleGeometry\\Abstract\\FigureAreaContext.cs",
+              "ToolTip": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\SimpleGeometry\\SimpleGeometry\\Abstract\\FigureAreaContext.cs",
+              "RelativeToolTip": "SimpleGeometry\\Abstract\\FigureAreaContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-26T14:14:11.913Z"
+              "WhenOpened": "2024-02-28T17:52:25.356Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "SimpleGeometry.cs",
               "DocumentMoniker": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\SimpleGeometry\\SimpleGeometry\\SimpleGeometry.cs",
               "RelativeDocumentMoniker": "SimpleGeometry\\SimpleGeometry.cs",
               "ToolTip": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\SimpleGeometry\\SimpleGeometry\\SimpleGeometry.cs",
               "RelativeToolTip": "SimpleGeometry\\SimpleGeometry.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAMAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBwAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-26T13:54:24.87Z"
+              "WhenOpened": "2024-02-26T13:54:24.87Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IFigureProtoType.cs",
-              "DocumentMoniker": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\SimpleGeometry\\SimpleGeometry\\Abstract\\IFigureProtoType.cs",
-              "RelativeDocumentMoniker": "SimpleGeometry\\Abstract\\IFigureProtoType.cs",
-              "ToolTip": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\SimpleGeometry\\SimpleGeometry\\Abstract\\IFigureProtoType.cs",
-              "RelativeToolTip": "SimpleGeometry\\Abstract\\IFigureProtoType.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-26T17:02:04.1Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
               "Title": "IFigure.cs",
               "DocumentMoniker": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\SimpleGeometry\\SimpleGeometry\\Abstract\\IFigure.cs",
               "RelativeDocumentMoniker": "SimpleGeometry\\Abstract\\IFigure.cs",
@@ -107,19 +101,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Circle.cs",
               "DocumentMoniker": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\SimpleGeometry\\SimpleGeometry\\Models\\Circle.cs",
               "RelativeDocumentMoniker": "SimpleGeometry\\Models\\Circle.cs",
               "ToolTip": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\SimpleGeometry\\SimpleGeometry\\Models\\Circle.cs",
               "RelativeToolTip": "SimpleGeometry\\Models\\Circle.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAzAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-26T15:21:27.253Z"
+              "WhenOpened": "2024-02-26T15:21:27.253Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "LineWithCoordinates.cs",
               "DocumentMoniker": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\SimpleGeometry\\SimpleGeometry\\Models\\LineWithCoordinates.cs",
               "RelativeDocumentMoniker": "SimpleGeometry\\Models\\LineWithCoordinates.cs",
@@ -127,67 +122,99 @@
               "RelativeToolTip": "SimpleGeometry\\Models\\LineWithCoordinates.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-26T15:41:08.421Z"
+              "WhenOpened": "2024-02-26T15:41:08.421Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "DotWithCoordinates.cs",
               "DocumentMoniker": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\SimpleGeometry\\SimpleGeometry\\Models\\DotWithCoordinates.cs",
               "RelativeDocumentMoniker": "SimpleGeometry\\Models\\DotWithCoordinates.cs",
               "ToolTip": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\SimpleGeometry\\SimpleGeometry\\Models\\DotWithCoordinates.cs",
               "RelativeToolTip": "SimpleGeometry\\Models\\DotWithCoordinates.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAjAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-26T15:44:53.944Z"
+              "WhenOpened": "2024-02-26T15:44:53.944Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IAreaCalculatable.cs",
-              "DocumentMoniker": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\SimpleGeometry\\SimpleGeometry\\Abstract\\IAreaCalculatable.cs",
-              "RelativeDocumentMoniker": "SimpleGeometry\\Abstract\\IAreaCalculatable.cs",
-              "ToolTip": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\SimpleGeometry\\SimpleGeometry\\Abstract\\IAreaCalculatable.cs",
-              "RelativeToolTip": "SimpleGeometry\\Abstract\\IAreaCalculatable.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAmAAAA",
+              "DocumentIndex": 8,
+              "Title": "IAreaCalculationStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\SimpleGeometry\\SimpleGeometry\\Abstract\\IAreaCalculationStrategy.cs",
+              "RelativeDocumentMoniker": "SimpleGeometry\\Abstract\\IAreaCalculationStrategy.cs",
+              "ToolTip": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\SimpleGeometry\\SimpleGeometry\\Abstract\\IAreaCalculationStrategy.cs",
+              "RelativeToolTip": "SimpleGeometry\\Abstract\\IAreaCalculationStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-26T15:35:04.201Z"
+              "WhenOpened": "2024-02-26T15:35:04.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CircleAreaStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\SimpleGeometry\\SimpleGeometry\\Calculations\\CircleAreaStrategy.cs",
+              "RelativeDocumentMoniker": "SimpleGeometry\\Calculations\\CircleAreaStrategy.cs",
+              "ToolTip": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\SimpleGeometry\\SimpleGeometry\\Calculations\\CircleAreaStrategy.cs",
+              "RelativeToolTip": "SimpleGeometry\\Calculations\\CircleAreaStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T14:56:59.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TriangleAreaStrategy.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\SimpleGeometry\\SimpleGeometry\\Calculations\\TriangleAreaStrategy.cs",
+              "RelativeDocumentMoniker": "SimpleGeometry\\Calculations\\TriangleAreaStrategy.cs",
+              "ToolTip": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\SimpleGeometry\\SimpleGeometry\\Calculations\\TriangleAreaStrategy.cs",
+              "RelativeToolTip": "SimpleGeometry\\Calculations\\TriangleAreaStrategy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T14:30:31.161Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "CircleArea.cs",
-              "DocumentMoniker": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\SimpleGeometry\\SimpleGeometry\\Calculations\\CircleArea.cs",
-              "RelativeDocumentMoniker": "SimpleGeometry\\Calculations\\CircleArea.cs",
-              "ToolTip": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\SimpleGeometry\\SimpleGeometry\\Calculations\\CircleArea.cs",
-              "RelativeToolTip": "SimpleGeometry\\Calculations\\CircleArea.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA3AAAA",
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\SimpleGeometry\\SimpleGeometry\\Models\\Triangle.cs",
+              "RelativeDocumentMoniker": "SimpleGeometry\\Models\\Triangle.cs",
+              "ToolTip": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\SimpleGeometry\\SimpleGeometry\\Models\\Triangle.cs",
+              "RelativeToolTip": "SimpleGeometry\\Models\\Triangle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-26T14:56:59.197Z"
+              "WhenOpened": "2024-02-26T14:14:11.913Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TriangleArea.cs",
-              "DocumentMoniker": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\SimpleGeometry\\SimpleGeometry\\Calculations\\TriangleArea.cs",
-              "RelativeDocumentMoniker": "SimpleGeometry\\Calculations\\TriangleArea.cs",
-              "ToolTip": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\SimpleGeometry\\SimpleGeometry\\Calculations\\TriangleArea.cs",
-              "RelativeToolTip": "SimpleGeometry\\Calculations\\TriangleArea.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-26T14:30:31.161Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "SimpleGeometry.csproj",
               "DocumentMoniker": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\SimpleGeometry\\SimpleGeometry\\SimpleGeometry.csproj",
               "RelativeDocumentMoniker": "SimpleGeometry\\SimpleGeometry.csproj",
               "ToolTip": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\SimpleGeometry\\SimpleGeometry\\SimpleGeometry.csproj",
               "RelativeToolTip": "SimpleGeometry\\SimpleGeometry.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-02-28T13:50:59.29Z"
+              "WhenOpened": "2024-02-28T13:50:59.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IFigureProtoType.cs",
+              "DocumentMoniker": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\SimpleGeometry\\SimpleGeometry\\Abstract\\IFigureProtoType.cs",
+              "RelativeDocumentMoniker": "SimpleGeometry\\Abstract\\IFigureProtoType.cs",
+              "ToolTip": "C:\\Users\\\u0415\u0433\u043E\u0440\\source\\repos\\SimpleGeometry\\SimpleGeometry\\Abstract\\IFigureProtoType.cs",
+              "RelativeToolTip": "SimpleGeometry\\Abstract\\IFigureProtoType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T17:02:04.1Z",
+              "EditorCaption": ""
             }
           ]
         }

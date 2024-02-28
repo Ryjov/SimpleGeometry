@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace SimpleGeometry.Calculations
 {
-    public class CircleAreaStrategy : IAreaCalculatable
+    class CircleAreaStrategy : IAreaCalculationStrategy
     {
         public double CalculateArea(IFigure figure)
         {

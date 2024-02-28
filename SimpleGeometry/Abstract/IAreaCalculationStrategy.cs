@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SimpleGeometry.Abstract
 {
-    public interface IAreaCalculatable
+    public interface IAreaCalculationStrategy
     {
         public double CalculateArea(IFigure figure);
     }

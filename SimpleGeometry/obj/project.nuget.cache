@@ -1,11 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fftFoNmcOjwlsxjtL0J0+Vi8lVmC3wr7iUGUaZEbyQXEmYQe6GaOSyu/gAZFUgrGiMu+5AeVluFVJsWJ2fWRSQ==",
+  "dgSpecHash": "u5xZTb2vBfdw5uVtOANHHS9Bsi4tc9MbnnDC9iKVdhRa4h+Ezu3y4oMH56sZNRZqQ0yT8QeepwMJuD5KT4qvDw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Егор\\source\\repos\\SimpleGeometry\\SimpleGeometry\\SimpleGeometry.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Егор\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
-    "C:\\Users\\Егор\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

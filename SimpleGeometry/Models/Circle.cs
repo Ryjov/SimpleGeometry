@@ -9,13 +9,11 @@ namespace SimpleGeometry.Models
 {
     internal class Circle : IFigure
     {
-        protected Circle(LineWithCoordinates radius)
+        public Circle(LineWithCoordinates radius)
         {
             Radius = radius;
         }
 
         protected LineWithCoordinates Radius { get; set; }
-
-        public IFigure Clone() => new Circle(Radius);
     }
 }
