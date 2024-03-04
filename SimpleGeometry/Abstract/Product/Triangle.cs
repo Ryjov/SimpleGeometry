@@ -11,6 +11,8 @@ namespace SimpleGeometry.Abstract.Product
     {
         public Triangle() { }
 
+        public bool IsRight { get; set; }
+
         public DotWithCoordinates DotA { get; set; }
         public DotWithCoordinates DotB { get; set; }
         public DotWithCoordinates DotC { get; set; }

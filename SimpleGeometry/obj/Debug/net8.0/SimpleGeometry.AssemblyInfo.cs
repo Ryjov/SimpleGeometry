@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SimpleGeometry")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55678cb914f2d06875af54d1b5a950482cb2e8a5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c23bfd899ec9fb914c907bcc8034ac2d453d093")]
 [assembly: System.Reflection.AssemblyProductAttribute("SimpleGeometry")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SimpleGeometry")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

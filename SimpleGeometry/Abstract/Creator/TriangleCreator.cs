@@ -25,7 +25,21 @@ namespace SimpleGeometry.Abstract.Creator
             context.SetStrategy(new TriangleAreaStrategy());
             result.Area = context.GetArea(result);
 
+            result.IsRight = IsTriangleRight(result);
+
             return result;
+        }
+
+        public bool IsTriangleRight(Triangle triangle)
+        {
+            if ((Math.Pow((double)triangle.SideAB.Length, 2) + Math.Pow((double)triangle.SideBC.Length, 2) == Math.Pow((double)triangle.SideCA.Length, 2)) ||
+                    (Math.Pow((double)triangle.SideBC.Length, 2) + Math.Pow((double)triangle.SideCA.Length, 2) == Math.Pow((double)triangle.SideAB.Length, 2)) ||
+                    (Math.Pow((double)triangle.SideAB.Length, 2) + Math.Pow((double)triangle.SideCA.Length, 2) == Math.Pow((double)triangle.SideBC.Length, 2)))
+            {
+                return true;
+            }
+
+            return false;
         }
     }
 }

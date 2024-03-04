@@ -1,7 +1,5 @@
-﻿using SimpleGeometry.Abstract;
-using SimpleGeometry.Abstract.Creator;
+﻿using SimpleGeometry.Abstract.Creator;
 using SimpleGeometry.Abstract.Product;
-using SimpleGeometry.Calculations;
 using SimpleGeometry.Models;
 
 namespace SimpleGeometry
@@ -25,6 +23,23 @@ namespace SimpleGeometry
                         $"Valid number of coordinates: 2-3. Number of coordinates sent: {dotCoordinates.Count}");
             }
 
+            var lines = CreateLines(creator, dotCoordinates);
+
+            var figure = creator.CreateFigure(lines);
+            return (double)figure.Area;
+        }
+
+        public bool IsTriangleRight(List<Tuple<double, double>> dotCoordinates)
+        {
+            FigureCreator creator = new TriangleCreator();
+            var lines = CreateLines(creator, dotCoordinates);
+            var figure = creator.CreateFigure(lines) as Triangle;
+
+            return figure.IsRight;
+        }
+
+        private List<LineWithCoordinates> CreateLines(FigureCreator creator, List<Tuple<double, double>> dotCoordinates)
+        {
             var dots = new List<DotWithCoordinates>();
             foreach (var d in dotCoordinates)
             {
@@ -32,7 +47,7 @@ namespace SimpleGeometry
             }
 
             var lines = new List<LineWithCoordinates>();
-            for (int i=0; i<dots.Count;i++)
+            for (int i = 0; i < dots.Count; i++)
             {
                 if (i + 1 < dots.Count)
                 {
@@ -44,8 +59,7 @@ namespace SimpleGeometry
                 }
             }
 
-            var figure = creator.CreateFigure(lines);
-            return (double)figure.Area;
+            return lines;
         }
     }
 }
