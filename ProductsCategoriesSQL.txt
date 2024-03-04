@@ -1,0 +1,2 @@
+SELECT p.Name, pct.category_name FROM Products AS p LEFT JOIN 
+(SELECT pc.ProductID, pc.CategoryID, c.Name AS category_name FROM Products_Categories AS pc LEFT JOIN Categories AS c ON c.Id = pc.CategoryID) AS pct ON p.Id = pct.ProductID GROUP BY p.Name, pct.category_name
