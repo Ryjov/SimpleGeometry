@@ -1,0 +1,12 @@
+C:\Users\Егор\source\repos\SimpleGeometry\SimpleGeometry\bin\Release\net8.0\SimpleGeometry.deps.json
+C:\Users\Егор\source\repos\SimpleGeometry\SimpleGeometry\bin\Release\net8.0\SimpleGeometry.dll
+C:\Users\Егор\source\repos\SimpleGeometry\SimpleGeometry\bin\Release\net8.0\SimpleGeometry.pdb
+C:\Users\Егор\source\repos\SimpleGeometry\SimpleGeometry\obj\Release\net8.0\SimpleGeometry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Егор\source\repos\SimpleGeometry\SimpleGeometry\obj\Release\net8.0\SimpleGeometry.AssemblyInfoInputs.cache
+C:\Users\Егор\source\repos\SimpleGeometry\SimpleGeometry\obj\Release\net8.0\SimpleGeometry.AssemblyInfo.cs
+C:\Users\Егор\source\repos\SimpleGeometry\SimpleGeometry\obj\Release\net8.0\SimpleGeometry.csproj.CoreCompileInputs.cache
+C:\Users\Егор\source\repos\SimpleGeometry\SimpleGeometry\obj\Release\net8.0\SimpleGeometry.sourcelink.json
+C:\Users\Егор\source\repos\SimpleGeometry\SimpleGeometry\obj\Release\net8.0\SimpleGeometry.dll
+C:\Users\Егор\source\repos\SimpleGeometry\SimpleGeometry\obj\Release\net8.0\refint\SimpleGeometry.dll
+C:\Users\Егор\source\repos\SimpleGeometry\SimpleGeometry\obj\Release\net8.0\SimpleGeometry.pdb
+C:\Users\Егор\source\repos\SimpleGeometry\SimpleGeometry\obj\Release\net8.0\ref\SimpleGeometry.dll

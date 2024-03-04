@@ -14,7 +14,7 @@ namespace SimpleGeometry.Calculations
         public double CalculateArea(IFigure figure)
         {
             var circle = figure as Circle;
-            return Math.PI * Math.Pow((double)circle.Radius.Length, 2);
+            return Math.Round(Math.Round(Math.PI, 2) * Math.Pow((double)circle.Radius.Length, 2), 2);
         }
     }
 }

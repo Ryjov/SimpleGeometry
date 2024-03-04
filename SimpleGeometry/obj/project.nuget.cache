@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "u5xZTb2vBfdw5uVtOANHHS9Bsi4tc9MbnnDC9iKVdhRa4h+Ezu3y4oMH56sZNRZqQ0yT8QeepwMJuD5KT4qvDw==",
+  "dgSpecHash": "E2ttMwQkEF0Z34GQ5/L/l3choe1NgDsTRqaNYY7l0XEfI3+WeeXBNyeIaohL3fsO20FpHD/nKv12FHJcDOCFPw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Егор\\source\\repos\\SimpleGeometry\\SimpleGeometry\\SimpleGeometry.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Егор\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Егор\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Егор\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Users\\Егор\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
   "logs": []
 }

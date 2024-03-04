@@ -3,18 +3,52 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleGeometry", "SimpleGeometry\SimpleGeometry.csproj", "{FCE101D7-F002-4A64-95D6-B01DD05C2315}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleGeometry", "SimpleGeometry\SimpleGeometry.csproj", "{FCE101D7-F002-4A64-95D6-B01DD05C2315}"
+EndProject
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "ConsoleApp1", "..\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe", "{84851DA5-7D0A-432D-BB7A-C3EDB309CD7D}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = C:\Users\Егор\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+		RemoteMachine = DESKTOP-DNR3U3E
+		StartingDirectory = C:\Users\Егор\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0
+		Environment = По умолчанию
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		UseLegacyDebugEngines = No
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+		IORedirection = Auto
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleGeometry.Tests", "SimpleGeometry.Tests\SimpleGeometry.Tests.csproj", "{708A0665-E59D-4248-9AA3-CB757AF86475}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
 		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{FCE101D7-F002-4A64-95D6-B01DD05C2315}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{FCE101D7-F002-4A64-95D6-B01DD05C2315}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCE101D7-F002-4A64-95D6-B01DD05C2315}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{FCE101D7-F002-4A64-95D6-B01DD05C2315}.Debug|x64.Build.0 = Debug|Any CPU
 		{FCE101D7-F002-4A64-95D6-B01DD05C2315}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FCE101D7-F002-4A64-95D6-B01DD05C2315}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCE101D7-F002-4A64-95D6-B01DD05C2315}.Release|x64.ActiveCfg = Release|Any CPU
+		{FCE101D7-F002-4A64-95D6-B01DD05C2315}.Release|x64.Build.0 = Release|Any CPU
+		{84851DA5-7D0A-432D-BB7A-C3EDB309CD7D}.Debug|Any CPU.ActiveCfg = Release|x64
+		{84851DA5-7D0A-432D-BB7A-C3EDB309CD7D}.Debug|x64.ActiveCfg = Release|x64
+		{84851DA5-7D0A-432D-BB7A-C3EDB309CD7D}.Release|Any CPU.ActiveCfg = Release|x64
+		{84851DA5-7D0A-432D-BB7A-C3EDB309CD7D}.Release|x64.ActiveCfg = Release|x64
+		{708A0665-E59D-4248-9AA3-CB757AF86475}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{708A0665-E59D-4248-9AA3-CB757AF86475}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{708A0665-E59D-4248-9AA3-CB757AF86475}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{708A0665-E59D-4248-9AA3-CB757AF86475}.Debug|x64.Build.0 = Debug|Any CPU
+		{708A0665-E59D-4248-9AA3-CB757AF86475}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{708A0665-E59D-4248-9AA3-CB757AF86475}.Release|Any CPU.Build.0 = Release|Any CPU
+		{708A0665-E59D-4248-9AA3-CB757AF86475}.Release|x64.ActiveCfg = Release|Any CPU
+		{708A0665-E59D-4248-9AA3-CB757AF86475}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

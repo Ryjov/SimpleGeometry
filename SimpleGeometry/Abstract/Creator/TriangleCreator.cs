@@ -22,7 +22,7 @@ namespace SimpleGeometry.Abstract.Creator
             result.DotC = result.SideCA.Beginning;
 
             var context = new FigureAreaContext();
-            context.SetStrategy(new CircleAreaStrategy());
+            context.SetStrategy(new TriangleAreaStrategy());
             result.Area = context.GetArea(result);
 
             return result;

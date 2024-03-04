@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace SimpleGeometry.Abstract.Product
 {
-    public class Triangle : IFigure
+    public class Triangle : SidedFigure
     {
         public Triangle() { }
 

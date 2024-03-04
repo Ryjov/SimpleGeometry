@@ -3,3 +3,10 @@ C:\Users\Егор\source\repos\SimpleGeometry\SimpleGeometry\obj\Debug\net8.0\Si
 C:\Users\Егор\source\repos\SimpleGeometry\SimpleGeometry\obj\Debug\net8.0\SimpleGeometry.AssemblyInfo.cs
 C:\Users\Егор\source\repos\SimpleGeometry\SimpleGeometry\obj\Debug\net8.0\SimpleGeometry.csproj.CoreCompileInputs.cache
 C:\Users\Егор\source\repos\SimpleGeometry\SimpleGeometry\obj\Debug\net8.0\SimpleGeometry.sourcelink.json
+C:\Users\Егор\source\repos\SimpleGeometry\SimpleGeometry\bin\Debug\net8.0\SimpleGeometry.deps.json
+C:\Users\Егор\source\repos\SimpleGeometry\SimpleGeometry\bin\Debug\net8.0\SimpleGeometry.dll
+C:\Users\Егор\source\repos\SimpleGeometry\SimpleGeometry\bin\Debug\net8.0\SimpleGeometry.pdb
+C:\Users\Егор\source\repos\SimpleGeometry\SimpleGeometry\obj\Debug\net8.0\SimpleGeometry.dll
+C:\Users\Егор\source\repos\SimpleGeometry\SimpleGeometry\obj\Debug\net8.0\refint\SimpleGeometry.dll
+C:\Users\Егор\source\repos\SimpleGeometry\SimpleGeometry\obj\Debug\net8.0\SimpleGeometry.pdb
+C:\Users\Егор\source\repos\SimpleGeometry\SimpleGeometry\obj\Debug\net8.0\ref\SimpleGeometry.dll
