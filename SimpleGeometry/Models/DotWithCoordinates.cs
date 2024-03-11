@@ -14,7 +14,7 @@ namespace SimpleGeometry.Models
             Y = y;
         }
 
-        public double X { get; set; }
-        public double Y { get; set; }
+        internal double X { get; set; }
+        internal double Y { get; set; }
     }
 }

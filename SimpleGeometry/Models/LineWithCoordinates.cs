@@ -23,9 +23,9 @@ namespace SimpleGeometry.Models
             Length = length;
         }
 
-        public DotWithCoordinates Beginning { get; set; }
-        public DotWithCoordinates End { get; set; }
-        public double? Length { get; set; }
+        public DotWithCoordinates Beginning { get; }
+        public DotWithCoordinates End { get; }
+        public double? Length { get; }
 
         private double CalculateLineLength()
         {
